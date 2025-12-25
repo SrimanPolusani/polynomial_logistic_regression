@@ -241,7 +241,7 @@ class LogisticRegression:
 
 # --- Main execution ---
 # Load data
-file_path = r"C:\Users\srima\PycharmProjects\logistic_regression\data2.txt"
+file_path = r"/data/data2.txt"
 X_orig_full = np.loadtxt(file_path, usecols=(0, 1), delimiter=',')
 y_full = np.loadtxt(file_path, usecols=2, delimiter=',')
 
