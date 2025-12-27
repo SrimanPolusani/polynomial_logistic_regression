@@ -513,7 +513,7 @@ $$
 
 ---
 
-# 5. Main Execution
+## 5. Main Execution
 
 ```python
 # --- Main execution ---
